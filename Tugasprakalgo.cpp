@@ -1,4 +1,4 @@
-// Nama : Andita Ayu Safiti
+// Nama : Andita Ayu Safitri
 // NIM : 123200118
 
 
